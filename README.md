@@ -1,4 +1,6 @@
 <div align="center">
+
+  ![Game?](./ok.svg)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=echometerain&layout=compact&theme=ayu-mirage)
   
