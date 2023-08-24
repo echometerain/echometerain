@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.discordapp.net/attachments/692515173835210752/1142443867606614016/photo-1534796636912-3b95b3ab5986.png?width=970&height=646" width="500" />
+  <img src="https://media.discordapp.net/attachments/692515173835210752/1144361776750809179/m74-1-6048743-1661889278053.png?width=1147&height=645" width="450" />
 
   *Fvck your vastness, I existed.*
 
