@@ -6,5 +6,5 @@
   
 </div>
 
-> **Note**
+> [!NOTE]
 > [Rain Blog](https://echometerain.github.io/)
